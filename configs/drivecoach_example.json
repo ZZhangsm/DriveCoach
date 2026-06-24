@@ -1,0 +1,12 @@
+{
+  "chat_model": "gpt-4o-mini",
+  "vision_model": "gpt-4o-mini",
+  "image_model": "dall-e-3",
+  "discriminator_model": "gpt-4o-mini",
+  "api_key_env": "DRIVECOACH_API_KEY",
+  "base_url_env": "DRIVECOACH_BASE_URL",
+  "image_size": "1024x1024",
+  "image_quality": "standard",
+  "temperature": 0.2,
+  "max_tokens": 1200
+}

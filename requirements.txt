@@ -1,0 +1,9 @@
+openai>=1.0.0
+pillow
+numpy
+tqdm
+# Optional for scripts/compute_clip_metrics.py:
+# torch
+# transformers
+# scipy
+# scikit-learn
