@@ -122,8 +122,4 @@ Each line should contain:
 
 If `image_path` is present, it is used directly. Otherwise `image_root / image_id` is used.
 
-## Notes for anonymous submission
 
-- Do not commit API keys.
-- Keep generated images and large model outputs outside the source tree or release them separately.
-- The pipeline supports any OpenAI-compatible MLLM/image generator through configuration.
