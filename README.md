@@ -1,10 +1,8 @@
-# DriveCoach Clean Code Release
+# DriveCoach
 
-This directory contains a clean, submission-friendly implementation of the DriveCoach pipeline described in the paper:
 
 **Observe -> Imitate -> Analogize** for long-tail traffic event generation and downstream evaluation.
 
-The release intentionally contains **no API keys** and no private hard-coded endpoints. All model access is configured through environment variables or a JSON config file.
 
 ## Directory layout
 
